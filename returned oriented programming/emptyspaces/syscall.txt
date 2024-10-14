@@ -1,0 +1,26 @@
+
+0x0000000000401324: syscall; 
+0x000000000046b80c: syscall; cmp eax, 0xfffff000; ja 0x6b820; xor eax, eax; ret; 
+0x00000000004194b9: syscall; cmp rax, -0x1000; ja 0x194c8; ret; 
+0x00000000004194e9: syscall; cmp rax, -0x1000; ja 0x194f8; ret; 
+0x000000000041963f: syscall; cmp rax, -0x1000; ja 0x19698; ret; 
+0x00000000004196e2: syscall; cmp rax, -0x1000; ja 0x19740; ret; 
+0x0000000000419779: syscall; cmp rax, -0x1000; ja 0x19788; ret; 
+0x0000000000419966: syscall; cmp rax, -0x1000; ja 0x19978; ret; 
+0x0000000000419999: syscall; cmp rax, -0x1000; ja 0x199a8; ret; 
+0x0000000000442ffc: syscall; cmp rax, -0x1000; ja 0x43010; ret; 
+0x00000000004562c5: syscall; cmp rax, -0x1000; ja 0x562d0; ret; 
+0x0000000000456f8c: syscall; cmp rax, -0x1000; ja 0x56fa0; ret; 
+0x0000000000457092: syscall; cmp rax, -0x1000; ja 0x570a0; ret; 
+0x000000000041a099: syscall; cmp rax, -0xfff; jae 0x1a0a4; ret; 
+0x000000000041a189: syscall; cmp rax, -0xfff; jae 0x1a194; ret; 
+0x000000000041a1b9: syscall; cmp rax, -0xfff; jae 0x1a1c4; ret; 
+0x000000000041a3a9: syscall; cmp rax, -0xfff; jae 0x1a3b4; ret; 
+0x0000000000456439: syscall; cmp rax, -0xfff; jae 0x56444; ret; 
+0x0000000000456469: syscall; cmp rax, -0xfff; jae 0x56474; ret; 
+0x0000000000456499: syscall; cmp rax, -0xfff; jae 0x564a4; ret; 
+0x00000000004564c9: syscall; cmp rax, -0xfff; jae 0x564d4; ret; 
+0x00000000004564f9: syscall; cmp rax, -0xfff; jae 0x56504; ret; 
+0x000000000040ba76: syscall; ret; 
+0x0000000000419435: syscall; test eax, eax; jne 0x19458; xor eax, eax; ret; 
+
