@@ -17,8 +17,7 @@ The course covered a lot of topics concerning binary exploitation, from the simp
 
 * [Symbolic Execution](https://github.com/AlessandroGriffanti/Offensive-Defensive-Cybersecurity/tree/ce895ec6ab77cafd5e2d40caad1482eb4afd9102/symbolic%20execution)
 
-* [Kernel Exploitation]([https://github.com/AlessandroGriffanti/Offensive-Defensive-Cybersecurity/tree/ce895ec6ab77cafd5e2d40caad1482eb4afd9102/kernel%20exploitation](https://github.com/AlessandroGriffanti/Offensive-Defensive-Cybersecurity/tree/ce895ec6ab77cafd5e2d40caad1482eb4afd9102/kernel%20exploitation))
-
+* [Kernel Exploitation](https://github.com/AlessandroGriffanti/Offensive-Defensive-Cybersecurity/tree/42f8d5d8680f64b779eb6418eaacbc9080a85660/kernel%20exploitation)
 * [Race Conditions](https://github.com/AlessandroGriffanti/Offensive-Defensive-Cybersecurity/tree/ce895ec6ab77cafd5e2d40caad1482eb4afd9102/race%20conditions)
 
 * [Packing](https://github.com/AlessandroGriffanti/Offensive-Defensive-Cybersecurity/tree/4f8e1803aae2ae543b53080ca583a64e2736ac58/packing)
