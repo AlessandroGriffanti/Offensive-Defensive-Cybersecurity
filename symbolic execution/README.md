@@ -1,0 +1,2 @@
+These challenges deal with symbolic execution.
+Symbolic execution is a program analysis technique where input values are treated as symbols rather than concrete values. This allows the execution of a program to explore multiple execution paths simultaneously, analyzing how different inputs affect program behavior. It is commonly used for vulnerability detection and automated bug finding by exploring possible edge cases and uncovering hidden issues in the code.
