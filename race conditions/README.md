@@ -1,0 +1,2 @@
+These challenges deal with race conditions.
+Race conditions are a class of software vulnerabilities that occur when multiple processes or threads access shared resources concurrently in an uncoordinated way. Exploiting these conditions can allow attackers to manipulate program behavior or data integrity. Proper synchronization and locking mechanisms are critical to preventing such vulnerabilities in concurrent systems.
