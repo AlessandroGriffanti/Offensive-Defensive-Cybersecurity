@@ -1,0 +1,2 @@
+These challenges deal with returned oriented programming (ROP).
+Return-Oriented Programming (ROP) is an advanced exploitation technique used to bypass security mitigations like non-executable memory. It involves chaining small snippets of legitimate code, called "gadgets," that end in a return instruction to perform malicious operations. ROP allows attackers to execute arbitrary actions without injecting new code into the target program.
