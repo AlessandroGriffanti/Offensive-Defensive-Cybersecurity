@@ -1,0 +1,2 @@
+These set of challenges deal with binary mitigations. 
+Binary mitigations are security mechanisms designed to protect programs from common exploitation techniques. Features like Address Space Layout Randomization (ASLR), Position Independent Executables (PIE), and stack canaries help defend against buffer overflows and memory corruption attacks. These techniques make it harder for attackers to predict memory locations or overwrite critical data.
